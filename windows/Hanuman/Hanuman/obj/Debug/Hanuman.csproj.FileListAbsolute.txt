@@ -1,0 +1,10 @@
+C:\Users\red\source\repos\Hanuman\Hanuman\bin\Debug\Hanuman.exe.config
+C:\Users\red\source\repos\Hanuman\Hanuman\bin\Debug\Hanuman.exe
+C:\Users\red\source\repos\Hanuman\Hanuman\bin\Debug\Hanuman.pdb
+C:\Users\red\source\repos\Hanuman\Hanuman\obj\Debug\Hanuman.csprojAssemblyReference.cache
+C:\Users\red\source\repos\Hanuman\Hanuman\obj\Debug\Hanuman.Properties.Resources.resources
+C:\Users\red\source\repos\Hanuman\Hanuman\obj\Debug\Hanuman.csproj.GenerateResource.cache
+C:\Users\red\source\repos\Hanuman\Hanuman\obj\Debug\Hanuman.csproj.CoreCompileInputs.cache
+C:\Users\red\source\repos\Hanuman\Hanuman\obj\Debug\Hanuman.exe
+C:\Users\red\source\repos\Hanuman\Hanuman\obj\Debug\Hanuman.pdb
+C:\Users\red\source\repos\Hanuman\Hanuman\obj\Debug\Hanuman.Form1.resources
