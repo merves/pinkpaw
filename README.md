@@ -11,6 +11,9 @@ Use case of Pink Paw application:
 
 
 
+
+
+
 Job sharing:
 
 Mobile programming      
@@ -22,8 +25,8 @@ Yağmur Ceren Akyol
 
 Back-end developing                                                                                                                      
 Esra Koca                                                                                                                                
-Egeghan
+Egehan
 
-Testing and project management
+Testing and project management                                                                                                         
 Mehmet Fatih Kadıoğlu
 
