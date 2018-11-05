@@ -20,8 +20,8 @@ Eren Şahin
 Front-end developing     
 Yağmur Ceren Akyol
 
-Back-end developing
-Esra Koca
+Back-end developing                                                                                                                      
+Esra Koca                                                                                                                                
 Egeghan
 
 Testing and project management
