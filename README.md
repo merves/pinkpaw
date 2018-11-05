@@ -13,15 +13,17 @@ Use case of Pink Paw application:
 
 Job sharing:
 
-Mobile programming
-Merve Şahin Eren Şahin
+Mobile programming      
+Merve Şahin
+Eren Şahin 
 
-Front-end developing
+Front-end developing     
 Yağmur Ceren Akyol
 
 Back-end developing
 Esra Koca
-Egehan
+Egeghan
 
 Testing and project management
-M. Fatih Kadıoğlu
+Mehmet Fatih Kadıoğlu
+
