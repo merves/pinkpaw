@@ -29,7 +29,7 @@ namespace vetapp
         {
             string username = textBox1.Text;
             string userpsw = textBox5.Text;
-            MySqlConnection conn = new MySqlConnection("server=localhost;uid=root;persistsecurityinfo=True;password=E1sraKo3ca;database=vetapp");
+            MySqlConnection conn = new MySqlConnection("");
             MySqlDataAdapter sda = new MySqlDataAdapter("select count(*) from userinfo where username='" + textBox1.Text + "' and userpsw = '" + textBox5.Text + "'", conn);
             DataTable dt = new DataTable();
             sda.Fill(dt);
