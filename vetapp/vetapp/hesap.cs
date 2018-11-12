@@ -27,7 +27,7 @@ namespace vetapp
             string tcno = textBox4.Text;
             string address = richTextBox1.Text;
             string password = textBox5.Text;
-            MySqlConnection connection = new MySqlConnection("server=localhost;user id=root;persistsecurityinfo=True;password=E1sraKo3ca;database=vetapp");
+            MySqlConnection connection = new MySqlConnection("");
             MySqlDataAdapter sda = new MySqlDataAdapter("select count(*) from account where name='" + textBox1.Text + "' and lastname = '" + textBox2.Text + "' and email = '" + textBox3.Text + "'and tcno='" + textBox4.Text + "'and address='" + richTextBox1.Text + "'and password='" + textBox5.Text + "'", connection);
             DataTable dt = new DataTable();
             sda.Fill(dt);
