@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hanuman</string>
+    <string name="tw_splash">Hanuman</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="check_remember">Beni hatırla</string>
+    <string name="log_counter">Kalan deneme sayısı:  </string>
+    <string name="title_activity_anamenu">Ana menü</string>
+
+
+    <string name="petName">İsim</string>
+    <string name="vaccine">Aşı</string>
+    <string name="disease">Hastalık</string>
+    <string name="threatment">Tedavi</string>
+    <string name="appointment">Randevu</string>
+    <string name="genel">GÜNCEL İŞLEMLER</string>
+    <string name="BirthDate">Doğum Tarihi</string>
+    <string name="PetGender">Cinsiyet</string>
+    <string name="PetGenus">Cins</string>
+
+</resources>
