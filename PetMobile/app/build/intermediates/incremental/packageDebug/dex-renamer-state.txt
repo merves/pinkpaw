@@ -1,0 +1,7 @@
+#Mon Nov 12 11:43:49 EET 2018
+base.0=C\:\\ssss\\PetMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e9f9b7a6fe5e25e2c5c5c42666b6739065a0fb10
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\ssss\\PetMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_726971ce7e8331946e3eae86851c5779eddf0ac2\\classes.dex
+base.1=C\:\\ssss\\PetMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_726971ce7e8331946e3eae86851c5779eddf0ac2
+file.0=C\:\\ssss\\PetMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e9f9b7a6fe5e25e2c5c5c42666b6739065a0fb10\\classes.dex
