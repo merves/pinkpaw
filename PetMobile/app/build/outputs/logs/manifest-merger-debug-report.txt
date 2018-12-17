@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:10:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:13:19-67
+application
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:16:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Türk\.android\build-cache\ccf279505342755e292c4d42f9abdc8eea7a3cd0\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\bf6678c0e664ebec2f23dc90b9536c244fff9cab\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\06b7c10a7d8f23aeb351bd3706d00b0d70cc008d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\17ccb49a91890d7c8b85895a32fd112591de1318\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\9d6294c5ddc06f6d203fdd551ec6f5368a756e63\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\857625c0dc16163cc36998e39312eb4c9d6a726c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\89a3055de010ba5875278693a7c8f9569d109faa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\ecff7e2adac21a15bce2046675bf6ff7ad03e752\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\affcc47c1a49c9f3ed41ed8c826a636b9cae5561\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\255efba5f4c3c23b0c4e55a027abe0cec84c77b3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\fec75dafc6adb01ac59b8130e7b1ce62ef77a41e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\479bee86b9754a8d55cc7f88b90b54b37ad28193\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:21:9-35
+	android:roundIcon
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:20:9-54
+	android:allowBackup
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.example.trk.petmobile.SplashActivity
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:theme
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:24:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.trk.petmobile.SignActivity
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:32:19-47
+activity#com.example.trk.petmobile.AnamenuActivity
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:35:13-59
+	android:parentActivityName
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:36:13-55
+	android:theme
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:34:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:38:13-40:74
+	android:value
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:40:17-71
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:39:17-63
+activity#com.example.trk.petmobile.PetInfoActivity
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:42:9-53
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:42:19-50
+activity#com.example.trk.petmobile.RegisterActivity
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:43:9-54
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:43:19-51
+activity#com.example.trk.petmobile.VaccineActvity
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:44:9-52
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:44:19-49
+activity#com.example.trk.petmobile.ThreatmentActivity
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:45:9-56
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:45:19-53
+activity#com.example.trk.petmobile.AppointmentActivity
+ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:46:9-66
+	android:name
+		ADDED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml:46:19-54
+uses-sdk
+INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Türk\.android\build-cache\ccf279505342755e292c4d42f9abdc8eea7a3cd0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\bf6678c0e664ebec2f23dc90b9536c244fff9cab\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\06b7c10a7d8f23aeb351bd3706d00b0d70cc008d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\17ccb49a91890d7c8b85895a32fd112591de1318\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\9d6294c5ddc06f6d203fdd551ec6f5368a756e63\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\9977c5a25dd5e9a2bbdcd90e39c8d60478123f8e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\857625c0dc16163cc36998e39312eb4c9d6a726c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\89a3055de010ba5875278693a7c8f9569d109faa\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\ecff7e2adac21a15bce2046675bf6ff7ad03e752\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\affcc47c1a49c9f3ed41ed8c826a636b9cae5561\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\255efba5f4c3c23b0c4e55a027abe0cec84c77b3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\fec75dafc6adb01ac59b8130e7b1ce62ef77a41e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\479bee86b9754a8d55cc7f88b90b54b37ad28193\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\bf6678c0e664ebec2f23dc90b9536c244fff9cab\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\ssss\PetMobile\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\bf6678c0e664ebec2f23dc90b9536c244fff9cab\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\06b7c10a7d8f23aeb351bd3706d00b0d70cc008d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\17ccb49a91890d7c8b85895a32fd112591de1318\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\9d6294c5ddc06f6d203fdd551ec6f5368a756e63\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\9977c5a25dd5e9a2bbdcd90e39c8d60478123f8e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\857625c0dc16163cc36998e39312eb4c9d6a726c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\89a3055de010ba5875278693a7c8f9569d109faa\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\ecff7e2adac21a15bce2046675bf6ff7ad03e752\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\affcc47c1a49c9f3ed41ed8c826a636b9cae5561\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\255efba5f4c3c23b0c4e55a027abe0cec84c77b3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\fec75dafc6adb01ac59b8130e7b1ce62ef77a41e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\479bee86b9754a8d55cc7f88b90b54b37ad28193\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\bf6678c0e664ebec2f23dc90b9536c244fff9cab\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Türk\.android\build-cache\bf6678c0e664ebec2f23dc90b9536c244fff9cab\output\AndroidManifest.xml:26:9-47
