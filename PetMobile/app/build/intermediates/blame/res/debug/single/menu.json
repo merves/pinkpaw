@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\menu\\menu.xml"
     },
     {
-        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\anamenu.xml",
-        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\menu\\anamenu.xml"
-    },
-    {
-        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_anamenu_drawer.xml",
-        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\menu\\activity_anamenu_drawer.xml"
+        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu_drawer.xml",
+        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\menu\\activity_menu_drawer.xml"
     }
 ]

@@ -6,31 +6,31 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1542015796809"
+    timestamp="1545007342769"
     token="4953759541706030250"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="873" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="5019" />
+        duration="2581" />
     <task
         name="verifier"
-        duration="1746" />
+        duration="284" />
 
-    <artifact
-        location="C:\ssss\PetMobile\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
     <artifact
         location="C:\ssss\PetMobile\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
         location="C:\ssss\PetMobile\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\ssss\PetMobile\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
         location="C:\ssss\PetMobile\app\build\outputs\apk\app-debug.apk"
@@ -62,16 +62,16 @@
 
     <build
         build-mode="FULL"
-        timestamp="1542015796809"
+        timestamp="1545007342769"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\ssss\PetMobile\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
         <artifact
             location="C:\ssss\PetMobile\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\ssss\PetMobile\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\ssss\PetMobile\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\ssss\PetMobile\app\build\outputs\apk\app-debug.apk"

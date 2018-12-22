@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/lightpink"
-    tools:context="com.example.trk.petmobile.VaccineActvity">
+    tools:context="com.example.trk.petmobile.VaccineActvity"
+    android:orientation="vertical">
 
     <TextView
         android:id="@+id/textView5"
@@ -15,6 +17,15 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         tools:layout_editor_absoluteX="26dp"
         tools:layout_editor_absoluteY="49dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="112dp"
+        android:layout_height="33dp"
+        android:checked="true"
+        android:text="../../...."
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="36dp" />
 
     <TextView
         android:id="@+id/textView9"
@@ -52,12 +63,4 @@
         tools:layout_editor_absoluteX="120dp"
         tools:layout_editor_absoluteY="208dp" />
 
-    <CheckBox
-        android:id="@+id/checkBox"
-        android:layout_width="112dp"
-        android:layout_height="33dp"
-        android:checked="true"
-        android:text="../../...."
-        tools:layout_editor_absoluteX="120dp"
-        tools:layout_editor_absoluteY="36dp" />
-</android.support.constraint.ConstraintLayout>
+</LinearLayout>

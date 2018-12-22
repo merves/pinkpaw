@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL" />
 
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature android:name="android.hardware.camera.autofocus" />
@@ -36,21 +37,40 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.trk.petmobile.SignActivity" />
         <activity
-            android:name="com.example.trk.petmobile.AnamenuActivity"
-            android:label="@string/title_activity_anamenu"
-            android:parentActivityName="com.example.trk.petmobile.SignActivity"
-            android:theme="@style/AppTheme.NoActionBar" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.trk.petmobile.SignActivity" />
-        </activity>
-        <activity android:name="com.example.trk.petmobile.PetInfoActivity" />
-        <activity android:name="com.example.trk.petmobile.RegisterActivity" />
-        <activity android:name="com.example.trk.petmobile.VaccineActvity" />
-        <activity android:name="com.example.trk.petmobile.ThreatmentActivity" />
-        <activity android:name="com.example.trk.petmobile.AppointmentActivity" />
+            android:name="com.example.trk.petmobile.SignActivity"
+            android:label="Giriş" />
+        <activity
+            android:name="com.example.trk.petmobile.PetInfoActivity"
+            android:label="Genel Bilgi" />
+        <activity
+            android:name="com.example.trk.petmobile.RegisterActivity"
+            android:label="Kayıt" />
+        <activity
+            android:name="com.example.trk.petmobile.VaccineActvity"
+            android:label="Aşı" />
+        <activity
+            android:name="com.example.trk.petmobile.ThreatmentActivity"
+            android:label="Tedavi" />
+        <activity
+            android:name="com.example.trk.petmobile.AppointmentActivity"
+            android:label="Randevu" />
+        <activity
+            android:name="com.example.trk.petmobile.AllVaccineActivity"
+            android:label="Aşı Geçmişi" />
+        <activity
+            android:name="com.example.trk.petmobile.AllAppointmentActivity"
+            android:label="Randevu Geçmişi" />
+        <activity
+            android:name="com.example.trk.petmobile.AllThreatmentActivity"
+            android:label="Tedavi Geçmişi" />
+        <activity
+            android:name="com.example.trk.petmobile.AskActivity"
+            android:label="Soru Sor" />
+        <activity
+            android:name="com.example.trk.petmobile.MenuActivity"
+            android:label="Ana Menü"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
