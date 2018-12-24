@@ -32,6 +32,10 @@
         "source": "C:\\ssss\\PetMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_live_help_black_24dp.png"
     },
     {
+        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\paw.png",
+        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\drawable-xhdpi\\paw.png"
+    },
+    {
         "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_date_range_black_24dp.png",
         "source": "C:\\ssss\\PetMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_date_range_black_24dp.png"
     },
@@ -46,6 +50,10 @@
     {
         "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pawlogo.png",
         "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\drawable-xhdpi\\pawlogo.png"
+    },
+    {
+        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_add_black_24dp.png",
+        "source": "C:\\ssss\\PetMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_black_24dp.png"
     },
     {
         "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\threat.png",

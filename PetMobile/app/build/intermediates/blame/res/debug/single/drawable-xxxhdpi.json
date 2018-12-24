@@ -32,6 +32,10 @@
         "source": "C:\\ssss\\PetMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_healing_black_24dp.png"
     },
     {
+        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\paw.png",
+        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\drawable-xxxhdpi\\paw.png"
+    },
+    {
         "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\doctor.png",
         "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\drawable-xxxhdpi\\doctor.png"
     },
@@ -50,6 +54,10 @@
     {
         "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_black_24dp.png",
         "source": "C:\\ssss\\PetMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_photo_black_24dp.png"
+    },
+    {
+        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png",
+        "source": "C:\\ssss\\PetMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png"
     },
     {
         "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\forum.png",

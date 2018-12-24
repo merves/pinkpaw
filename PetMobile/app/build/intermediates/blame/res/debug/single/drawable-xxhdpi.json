@@ -20,6 +20,10 @@
         "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\drawable-xxhdpi\\doctor.png"
     },
     {
+        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\paw.png",
+        "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\drawable-xxhdpi\\paw.png"
+    },
+    {
         "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_person_outline_black_24dp.png",
         "source": "C:\\ssss\\PetMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person_outline_black_24dp.png"
     },
@@ -54,5 +58,9 @@
     {
         "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pawlogo.png",
         "source": "C:\\ssss\\PetMobile\\app\\src\\main\\res\\drawable-xxhdpi\\pawlogo.png"
+    },
+    {
+        "merged": "C:\\ssss\\PetMobile\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_add_black_24dp.png",
+        "source": "C:\\ssss\\PetMobile\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_black_24dp.png"
     }
 ]
